@@ -21,7 +21,7 @@
 - **The dashboard spans at least 8 named indicators**: forest area, GDP growth, GDP per capita, health expenditure, trade value, internet usage, childhood immunization, and youth unemployment. This provides a multi-dimensional view of development rather than focusing on a single economic measure.
 
 ##Dashboard
-![Power BI Dashboard](Screenshot 2026-08-19 230458.png)
+![Power BI Dashboard](Screenshot2026-08-19230458.png)
 ## Additional Insights Visible from the Dashboard Design
 
 - The dashboard combines **5 KPI cards + 2 scatter plots + 1 regional comparison chart + 1 multi-year trend chart + 1 regional slicer**, creating **10 major analytical elements** on a single page.
